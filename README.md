@@ -12,7 +12,7 @@ git --version
 
 Steps
 
-- git clone
+- git clone https://github.com/laugramaglia/init-pi.git
 - cd init-pi
 - sh init.sh
 
