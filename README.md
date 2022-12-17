@@ -1,3 +1,6 @@
+add ssh file to system-boot
+this will let u connect remotely
+
 check if git is installed
 
 git --version
