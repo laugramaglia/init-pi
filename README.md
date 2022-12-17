@@ -1,3 +1,6 @@
+download ubuntu server for pi
+https://ubuntu.com/download/raspberry-pi
+
 add ssh file to system-boot
 this will let u connect remotely
 
