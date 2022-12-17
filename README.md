@@ -29,6 +29,9 @@ Fill the inputs.
 
 Could help 
 
+# reset ssh key
+ssh-keygen -R <ip>
+
 Step 1: vi initPi.sh
 Step 2: Press “i”
 Step 3: Press “Esc” to exit this mode. Then type “:w” to save your script.
